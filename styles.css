@@ -1,0 +1,55 @@
+
+html {
+  --accent-color: #0404B4; 
+}
+
+body {
+  background-color: #151515;
+  color: #333;
+  max-width: 800px; 
+  margin: 0 auto; 
+}
+
+h1 {
+  text-align: center; 
+  color: #0404B4;
+  font-family: 'Arial', sans-serif; 
+}
+
+p {
+  color: white;
+}
+
+h6 {
+  color: white; 
+}
+
+nav li {
+  display: inline; 
+  margin-right: 25px; 
+  border: 1px solid var(--accent-color); 
+  padding: 0.5em 1em; 
+  font-weight: bold; 
+}
+
+h2 {
+  color: red;
+  margin: 0; 
+}
+
+footer p {
+  text-align: center; 
+  color: #888;
+  font-size: 0.8em; 
+}
+
+embed {
+  width: 750px;
+  height: 750px;
+}
+
+
+
+
+
+
